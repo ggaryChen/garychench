@@ -1,11 +1,15 @@
 {
   "name": "garychench",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "npm package",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ggaryChen/garychench.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "garychench@qq.com",
   "license": "ISC"
 }
